@@ -1,6 +1,5 @@
 <h1>About</h1>
-<p>This is where I upload miscellaneous Python programs. Any requirements or description for the files within can be found below, 
-and at the tops of the files themselves.</p>
+<p>This is where I upload miscellaneous Python programs. Requirements and descriptions for the files within can be found below.</p>
 
 <h1>Contents</h1>
 <ul>
