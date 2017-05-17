@@ -1,11 +1,3 @@
-# NOTE: This program requires pyperclip to work well.
-#
-# Pyperclip can be found at https://github.com/asweigart/pyperclip
-# and installed with pip install pyperclip.
-#
-# This program implements a keyword cipher, with the option to copy output to the clipboard.
-#
-
 import pyperclip
 
 print "WELCOME TO VAISHANT'S WORD CODE ENCODER AND DECODER"
