@@ -1,24 +1,14 @@
-<h1>About</h1>
-<p>This is where I upload miscellaneous Python programs. Requirements and descriptions for the files within can be found below.</p>
+<h1 id="wordcode">Word Code</h1>
 
-<h1>Contents</h1>
-<ul>
-  <li><a href="#wordcode">Word Code</a></li>
-</ul>
-
-<h1>Documentation</h1>
-
-<h2 id="wordcode">Word Code</h2>
-
-<h3>Purpose</h3>
+<h2>Purpose</h2>
 <p>This program implements a keyword cipher, which encodes and decodes the plaintext using a user-specified keyword. To find out more 
 about keyword ciphers, read the <a href="https://en.wikipedia.org/wiki/Keyword_cipher">Wikipedia page</a>.</p>
 
-<h3>Features</h3>
+<h2>Features</h2>
 <p>The user is asked whether they want to perform encryption or decryption. After the keyword is provided, and the output is produced, 
 the option is given to copy it to the clipboard.</p>
 
-<h3>Requirements</h3>
+<h2>Requirements</h2>
 <p>In order to run properly, this program requires pyperclip</p>
 <ul>
   <li>Pyperclip can be found at <a href="https://github.com/asweigart/pyperclip">https://github.com/asweigart/pyperclip</a> and 
